@@ -1,0 +1,4 @@
+File,Price,Depreciation,Reg Date,Mileage,Manufactured,Road Tax,Transmission,Dereg Value,OMV,COE,ARF,Engine Cap,Power,Curb Weight,No. of Owners,Type of Vehicle
+first.html,"$33,800","$6,830 /yr",18-Jan-2011 (4yrs 11mths 10days COE left),N.A.,2010,$742 /yr,Auto,"$18,860 as of today ( change )","$16,286","$19,069","$16,286","1,598 cc",90.0 kW (120 bhp),"1,195 kg",2,Mid-Sized Sedan
+second.html,"$33,800","$6,860 /yr",11-Jan-2011 (4yrs 11mths 3days COE left),N.A.,2010,$816 /yr,Auto,"$18,787 as of today ( change )","$16,680","$19,069","$16,680","1,598 cc",80.0 kW (107 bhp),"1,195 kg",2,Mid-Sized Sedan
+third.html,"$66,800","$10,160 /yr",20-Sep-2016 (5yrs 7mths 12days COE left),"79,898 km (18.2k /yr)",2016,$742 /yr,Auto,"$44,106 as of today ( change )","$19,491","$52,503","$19,491","1,597 cc",92.0 kW (123 bhp),"1,249 kg",1,Mid-Sized Sedan

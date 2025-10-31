@@ -1,0 +1,84 @@
+,Car Name,Price,Depreciation,Reg Date,Mileage,Road Tax,Dereg Value,Engine Cap,Curb Weight,Manufactured,Transmission,OMV,ARF,Power,No. of Owners,COE,Status
+0,Toyota Vios 1.5M E (COE till 07/2022),"$11,800 ","$7,980 /yr",,"165,200 km (12.2k /yr)",$958 /yr,,"1,497 cc","1,075 kg",2007,Manual,"$11,989 ","$13,188 ",80.0 kW (107 bhp),3,"$24,100 ",Avaialble
+1,Mitsubishi Lancer EX 1.6A,"$28,800 ",,,"128,000 km (15.9k /yr)",$738 /yr,,"1,590 cc","1,322 kg",2012,Auto,"$16,673 ","$16,673 ",86.0 kW (115 bhp),1,"$66,889 ",Avaialble
+2,Kia Cerato K3 1.6A SX,"$58,888 ",,,"46,974 km (11.9k /yr)",$738 /yr,,"1,591 cc","1,295 kg",2016,Auto,"$17,780 ","$17,780 ",95.3 kW (127 bhp),1,"$48,401 ",Avaialble
+3,Mitsubishi Lancer 1.6A GLX (COE till 03/2029),"$41,800 ","$5,180 /yr",,"134,000 km (11.2k /yr)",$881 /yr,,"1,584 cc","1,162 kg",2009,Auto,"$14,693 ","$14,693 ",79.0 kW (105 bhp),2,"$25,525 ",Sold
+4,Toyota Corolla Altis 1.6A (New 10-yr COE),"$55,800 ","$5,580 /yr",,"185,000 km (18.4k /yr)",$742 /yr,N.A.,"1,598 cc","1,195 kg",2010,Auto,"$16,286 ","$16,286 ",90.0 kW (120 bhp),3,"$48,712 ",Sold
+5,Toyota Corolla Axio 1.5A X (COE till 04/2024),"$22,800 ","$7,080 /yr",,"125,000 km (10.6k /yr)",$818 /yr,,"1,496 cc","1,130 kg",2008,Auto,"$12,135 ","$12,135 ",81.0 kW (108 bhp),4,"$13,088 ",Avaialble
+6,Mazda 3 1.5A,"$65,800 ",,,"23,443 km (8.5k /yr)",$682 /yr,,"1,496 cc","1,310 kg",2017,Auto,"$14,299 ","$14,299 ",88.0 kW (118 bhp),2,"$38,389 ",Avaialble
+7,Honda Civic 1.6A VTi (COE till 10/2023),"$21,800 ","$8,070 /yr",,"128,888 km (10.5k /yr)",$962 /yr,,"1,595 cc","1,220 kg",2008,Auto,"$20,060 ","$20,060 ",92.0 kW (123 bhp),3,"$15,142 ",Avaialble
+8,Hyundai Elantra 1.6A Elite,"$38,500 ",,,"127,000 km (19.3k /yr)",$738 /yr,,"1,591 cc","1,292 kg",2014,Auto,"$13,360 ","$13,360 ",97.0 kW (130 bhp),2,"$61,990 ",Sold
+9,Mazda 3 1.5A Deluxe,"$77,500 ",,,"24,000 km (11k /yr)",$682 /yr,,"1,496 cc","1,331 kg",2018,Auto,"$17,656 ","$17,656 ",88.0 kW (118 bhp),1,"$25,000 ",Avaialble
+10,Toyota Corolla Altis 1.6A,N.A,N.A,,N.A.,$742 /yr,N.A.,"1,598 cc","1,205 kg",2015,Auto,"$19,589 ","$14,589 ",90.0 kW (120 bhp),4,"$67,749 ",Avaialble
+11,Toyota Corolla Altis 1.6A (COE till 04/2022),"$8,500 ","$7,200 /yr",,"150,000 km (10.8k /yr)","$1,039 /yr",,"1,598 cc","1,115 kg",2006,Auto,"$15,355 ","$16,891 ",81.0 kW (108 bhp),4,"$25,115 ",Sold
+12,Toyota Corolla Altis 1.6A (New 5-yr COE),"$35,800 ","$7,160 /yr",,"88,563 km (8.8k /yr)",$742 /yr,N.A.,"1,598 cc","1,195 kg",2010,Auto,"$16,446 ","$16,446 ",90.0 kW (120 bhp),3,N.A.,Avaialble
+13,Subaru Impreza 4D 2.0i-S,"$66,500 ",,,"49,300 km (13.4k /yr)","$1,208 /yr",,"1,995 cc","1,438 kg",2016,Auto,"$20,821 ","$21,150 ",115.0 kW (154 bhp),1,"$46,229 ",Avaialble
+14,Volkswagen Jetta GP 1.4A TSI,"$58,800 ",,,"79,000 km (18.5k /yr)",$620 /yr,,"1,390 cc","1,417 kg",2015,Auto,"$18,494 ","$18,494 ",90.0 kW (120 bhp),1,"$55,201 ",Avaialble
+15,Toyota Corolla Axio 1.5A X (COE till 03/2024),"$20,888 ","$6,630 /yr",,N.A.,$818 /yr,,"1,496 cc","1,130 kg",2008,Auto,"$16,066 ","$16,066 ",81.0 kW (108 bhp),2,"$12,763 ",Avaialble
+16,Kia Cerato Forte 1.6A SX (New 5-yr COE),"$34,800 ","$6,960 /yr",,"138,000 km (13.5k /yr)",$812 /yr,N.A.,"1,591 cc",N.A.,1251,Auto,"$13,374 ","$13,374 ",92.7 kW (124 bhp),2,N.A.,Avaialble
+17,Toyota Corolla Altis 1.6A (COE till 04/2029),"$46,800 ","$5,680 /yr",,"85,000 km (7.5k /yr)",$890 /yr,,"1,598 cc","1,195 kg",2009,Auto,"$17,853 ","$17,853 ",80.0 kW (107 bhp),1,"$26,175 ",Avaialble
+18,Toyota Vios 1.5A G,"$65,700 ",,,"42,000 km (14k /yr)",$682 /yr,,"1,496 cc","1,100 kg",2017,Auto,"$15,677 ","$15,677 ",79.0 kW (105 bhp),1,"$41,400 ",Avaialble
+19,Kia Cerato K3 1.6A Sunroof,"$62,800 ",,,"40,000 km (11.6k /yr)",$738 /yr,,"1,591 cc","1,295 kg",2017,Auto,"$15,868 ","$15,868 ",95.3 kW (127 bhp),1,"$44,002 ",Avaialble
+20,Kia Cerato K3 1.6A,"$56,800 ",,,"80,000 km (18.7k /yr)",$738 /yr,,"1,591 cc","1,295 kg",2016,Auto,"$14,594 ","$14,594 ",95.3 kW (127 bhp),1,"$50,991 ",Avaialble
+21,Mazda 3 1.5A Deluxe,"$54,888 ",,,"64,244 km (13.9k /yr)",$682 /yr,,"1,496 cc","1,321 kg",2016,Auto,"$18,622 ","$13,622 ",88.0 kW (118 bhp),1,"$53,694 ",Avaialble
+22,Kia Cerato K3 1.6A EX,"$49,800 ",,,"97,000 km (20.5k /yr)",$738 /yr,,"1,591 cc","1,295 kg",2016,Auto,"$14,036 ","$14,036 ",95.3 kW (127 bhp),2,"$47,889 ",Avaialble
+23,Toyota Allion 1.5A (COE till 01/2028),"$41,800 ","$5,990 /yr",,"148,500 km (11.4k /yr)",$887 /yr,,"1,496 cc","1,200 kg",2007,Auto,"$15,539 ","$17,093 ",81.0 kW (108 bhp),2,"$42,970 ",Avaialble
+24,Honda Civic 1.6A VTi,"$86,800 ",,,"55,000 km (23.4k /yr)",$742 /yr,,"1,597 cc","1,249 kg",2018,Auto,"$20,645 ","$20,903 ",92.0 kW (123 bhp),1,"$33,798 ",Avaialble
+25,Toyota Allion 1.5A (COE till 10/2023),"$21,800 ","$7,980 /yr",,"95,000 km (7.7k /yr)",$887 /yr,,"1,496 cc","1,200 kg",2008,Auto,"$15,433 ","$15,433 ",81.0 kW (108 bhp),2,"$15,142 ",Avaialble
+26,Toyota Corolla Altis 1.6A,"$43,800 ",,,N.A.,$742 /yr,,"1,598 cc","1,205 kg",2014,Auto,"$18,650 ","$13,650 ",90.0 kW (120 bhp),1,"$62,890 ",Avaialble
+27,Hyundai Elantra 1.6A GLS Elite,"$59,888 ",,,"95,416 km (21.7k /yr)",$738 /yr,,"1,591 cc","1,345 kg",2016,Auto,"$17,432 ","$17,432 ",93.8 kW (125 bhp),1,"$51,506 ",Avaialble
+28,Kia Cerato K3 1.6A,"$60,800 ",,,"66,000 km (20.4k /yr)",$738 /yr,,"1,591 cc","1,295 kg",2017,Auto,"$12,690 ","$12,690 ",95.3 kW (127 bhp),1,"$41,761 ",Avaialble
+29,Toyota Corolla Altis 1.6A,"$27,500 ",,,N.A.,$742 /yr,,"1,598 cc","1,195 kg",2012,Auto,"$14,885 ","$14,885 ",90.0 kW (120 bhp),2,"$71,001 ",Avaialble
+30,Toyota Corolla Altis 1.6A (COE till 12/2023),"$19,800 ","$6,920 /yr",,N.A.,$965 /yr,,"1,598 cc","1,195 kg",2008,Auto,"$16,084 ","$16,084 ",80.0 kW (107 bhp),3,"$13,786 ",Avaialble
+31,Toyota Vios 1.5A E (COE till 08/2022),"$13,800 ","$9,060 /yr",,"140,000 km (10.4k /yr)",$958 /yr,,"1,497 cc","1,095 kg",2007,Auto,"$12,607 ","$13,868 ",80.0 kW (107 bhp),4,"$22,700 ",Avaialble
+32,Hyundai Elantra 1.6A GLS Elite,"$48,515 ",,,"107,000 km (21.2k /yr)",$738 /yr,,"1,591 cc","1,292 kg",2015,Auto,"$15,198 ","$15,198 ",97.0 kW (130 bhp),1,"$45,002 ",Avaialble
+33,Kia Cerato Forte 1.6A SX (COE till 01/2026),"$36,800 ","$7,380 /yr",,N.A.,$738 /yr,,"1,591 cc","1,261 kg",2010,Auto,"$13,637 ","$13,637 ",91.1 kW (122 bhp),3,"$19,069 ",Avaialble
+34,Hyundai Elantra 1.6A,"$45,300 ",,,"80,187 km (15.2k /yr)",$738 /yr,,"1,591 cc","1,292 kg",2015,Auto,"$12,771 ","$12,771 ",97.0 kW (130 bhp),2,"$57,301 ",Avaialble
+35,Toyota Corolla Altis 1.6A Elegance,"$89,800 ",,,"9,540 km (6.9k /yr)",$742 /yr,,"1,598 cc","1,230 kg",2019,Auto,"$20,879 ","$21,231 ",96.0 kW (128 bhp),1,"$31,783 ",Avaialble
+36,Volkswagen Jetta 1.4A TSI Sportline,"$67,988 ",,,"50,000 km (13.9k /yr)",$620 /yr,,"1,390 cc","1,417 kg",2015,Auto,"$21,922 ","$22,691 ",90.0 kW (120 bhp),2,"$54,556 ",Avaialble
+37,Hyundai Elantra 1.6A Elite (New 5-yr COE),"$36,800 ","$7,360 /yr",,N.A.,$738 /yr,N.A.,"1,591 cc","1,267 kg",2011,Auto,"$13,976 ","$13,976 ",95.6 kW (128 bhp),2,N.A.,Avaialble
+38,Honda Civic 1.5A VTEC Turbo Sunroof,"$103,800 ",,,"29,000 km (14.1k /yr)",$684 /yr,,"1,498 cc","1,324 kg",2018,Auto,"$26,594 ","$29,232 ",127.0 kW (170 bhp),1,"$32,302 ",Avaialble
+39,Hyundai Avante 1.6A GLS,"$71,800 ",,,"19,800 km (13.9k /yr)",$738 /yr,,"1,591 cc","1,345 kg",2019,Auto,"$12,631 ","$12,631 ",93.8 kW (125 bhp),1,"$26,667 ",Avaialble
+40,Hyundai Elantra 1.6A Elite (New 5-yr COE),"$36,800 ","$7,360 /yr",,N.A.,$738 /yr,N.A.,"1,591 cc","1,267 kg",2011,Auto,"$13,976 ","$13,976 ",95.6 kW (128 bhp),1,N.A.,Avaialble
+41,Chevrolet Cruze 1.6A (COE till 11/2025),"$31,000 ","$6,450 /yr",,"120,000 km (11.8k /yr)",$816 /yr,,"1,598 cc","1,388 kg",2010,Auto,"$12,091 ","$12,091 ",80.0 kW (107 bhp),4,"$18,238 ",Avaialble
+42,Honda Civic 1.6A VTi (COE till 05/2025),"$33,300 ","$7,850 /yr",,"115,014 km (10.7k /yr)",$814 /yr,,"1,595 cc","1,220 kg",2008,Auto,"$25,281 ","$25,281 ",92.0 kW (123 bhp),2,"$16,438 ",Avaialble
+43,Toyota Allion 1.5A (COE till 02/2024),"$24,800 ","$8,160 /yr",,"133,000 km (11.1k /yr)",$818 /yr,,"1,496 cc","1,200 kg",2008,Auto,"$20,498 ","$20,498 ",81.0 kW (108 bhp),3,"$12,864 ",Avaialble
+44,Toyota Corolla Altis 1.6A Standard,"$75,800 ",,,"42,000 km (16.1k /yr)",$742 /yr,,"1,598 cc","1,230 kg",2018,Auto,"$19,741 ","$19,741 ",96.0 kW (128 bhp),1,"$38,941 ",Avaialble
+45,Kia Rio 1.4A (COE till 08/2023),"$17,500 ","$6,940 /yr",,N.A.,$814 /yr,,"1,399 cc","1,176 kg",2008,Auto,"$9,846 ","$6,027 ",69.9 kW (93 bhp),5,"$17,099 ",Avaialble
+46,Kia Cerato K3 1.6A EX,"$52,800 ",,,"76,300 km (16.5k /yr)",$738 /yr,,"1,591 cc","1,295 kg",2016,Auto,"$14,328 ","$14,328 ",95.3 kW (127 bhp),1,"$45,880 ",Avaialble
+47,Toyota Vios 1.5A E (COE till 11/2025),"$34,800 ","$7,270 /yr",,N.A.,$752 /yr,,"1,497 cc","1,095 kg",2010,Auto,"$12,306 ","$12,306 ",80.0 kW (107 bhp),3,"$18,238 ",Avaialble
+48,Toyota Esquire 2.0A Xi,"$71,800 ",,,"56,000 km (10.7k /yr)","$1,196 /yr",,"1,986 cc","1,570 kg",2015,Auto,"$23,018 ","$24,226 ",112.0 kW (150 bhp),1,"$71,509 ",Avaialble
+49,Mitsubishi Lancer EX 1.5A GLS (COE till 01/2024),"$23,800 ","$8,160 /yr",,"133,000 km (11k /yr)",$889 /yr,,"1,499 cc","1,313 kg",2008,Auto,"$18,193 ","$18,193 ",80.0 kW (107 bhp),3,"$13,024 ",Sold
+50,Mitsubishi Lancer EX 1.6A,"$55,515 ",,,"61,000 km (16.8k /yr)",$738 /yr,,"1,590 cc","1,284 kg",2017,Auto,"$11,074 ","$11,074 ",86.0 kW (115 bhp),1,"$51,765 ",Avaialble
+51,Subaru Impreza 4D 1.6i-S,"$60,500 ",,,"57,800 km (14.2k /yr)",$744 /yr,,"1,600 cc","1,449 kg",2016,Auto,"$19,307 ","$19,307 ",84.0 kW (112 bhp),1,"$50,010 ",Avaialble
+52,Hyundai Avante 1.6A GLS S,"$69,300 ",,,"38,000 km (20.2k /yr)",$738 /yr,,"1,591 cc","1,345 kg",2019,Auto,"$14,588 ","$14,588 ",93.8 kW (125 bhp),1,"$25,689 ",Avaialble
+53,Mitsubishi Attrage 1.2A,"$53,800 ",,,"46,000 km (15.3k /yr)",$506 /yr,,"1,193 cc",940 kg,2017,Auto,"$13,335 ","$5,000 ",59.0 kW (79 bhp),1,"$47,112 ",Avaialble
+54,Mitsubishi Lancer EX 1.6A Sports,"$49,800 ",,,"79,385 km (16.4k /yr)",$738 /yr,,"1,590 cc","1,284 kg",2015,Auto,"$13,571 ","$13,571 ",86.0 kW (115 bhp),1,"$45,000 ",Sold
+55,Kia Cerato K3 1.6A SX,"$55,800 ",,,"71,058 km (15.6k /yr)",$738 /yr,,"1,591 cc","1,295 kg",2016,Auto,"$16,825 ","$16,825 ",95.3 kW (127 bhp),1,"$52,301 ",Avaialble
+56,Kia Cerato Forte 1.6M EX (COE till 04/2024),"$21,500 ","$6,650 /yr",,N.A.,$886 /yr,,"1,591 cc","1,227 kg",2009,Manual,"$10,072 ","$10,072 ",92.7 kW (124 bhp),4,"$13,088 ",Avaialble
+57,Volkswagen Jetta GP 1.4A TSI Highline,"$42,000 ",,,"42,000 km (7.3k /yr)",$620 /yr,,"1,390 cc","1,417 kg",2015,Auto,"$17,553 ","$7,553 ",90.0 kW (120 bhp),1,"$67,601 ",Avaialble
+58,Nissan Sylphy 1.6A Premium,"$46,300 ",,,"79,700 km (15.3k /yr)",$742 /yr,,"1,598 cc","1,205 kg",2015,Auto,"$16,439 ","$16,439 ",85.0 kW (113 bhp),2,"$56,001 ",Sold
+59,Mazda 3 1.5A,"$58,000 ",,,N.A.,$682 /yr,,"1,496 cc","1,321 kg",2016,Auto,"$16,614 ","$11,614 ",88.0 kW (118 bhp),3,"$53,000 ",Avaialble
+60,Nissan Sunny 1.6M EX (COE till 03/2022),"$9,999 ","$8,710 /yr",,"75,000 km (5.5k /yr)","$1,039 /yr",,"1,597 cc","1,085 kg",2007,Manual,"$10,703 ","$11,774 ",81.0 kW (108 bhp),1,"$24,715 ",Avaialble
+61,Kia Cerato K3 1.6A EX,"$58,888 ",,,"49,787 km (13.9k /yr)",$738 /yr,,"1,591 cc","1,295 kg",2017,Auto,"$13,002 ","$13,002 ",95.3 kW (127 bhp),1,"$42,801 ",Avaialble
+62,Toyota Vios 1.5A J (New 5-yr COE),"$33,800 ","$6,760 /yr",,"123,000 km (12.2k /yr)",$684 /yr,N.A.,"1,497 cc","1,095 kg",2010,Auto,"$11,708 ","$11,708 ",80.0 kW (107 bhp),4,N.A.,Avaialble
+63,Volkswagen Jetta GP 1.4A TSI,"$51,888 ",,,"88,000 km (16.3k /yr)",$620 /yr,,"1,390 cc","1,417 kg",2015,Auto,"$19,307 ","$19,307 ",90.0 kW (120 bhp),1,"$57,089 ",Avaialble
+64,Hyundai Avante 1.6A S (COE till 02/2022),"$8,200 ","$7,860 /yr",,"146,532 km (10.5k /yr)","$1,033 /yr",,"1,591 cc","1,264 kg",2007,Auto,"$14,573 ","$4,231 ",89.7 kW (120 bhp),2,"$25,197 ",Avaialble
+65,Honda Civic 1.5A VTEC Turbo Sunroof,"$82,588 ",,,N.A.,$684 /yr,,"1,498 cc","1,324 kg",2016,Auto,"$26,078 ","$23,510 ",127.0 kW (170 bhp),1,"$57,508 ",Avaialble
+66,Hyundai Avante 1.6A GLS S,"$70,500 ",,,"43,000 km (24.5k /yr)",$738 /yr,,"1,591 cc","1,345 kg",2019,Auto,"$14,494 ","$14,494 ",93.8 kW (125 bhp),1,"$26,659 ",Avaialble
+67,Toyota Corolla Altis 1.6A Classic,"$62,800 ",,,N.A.,$742 /yr,,"1,598 cc","1,205 kg",2016,Auto,"$17,982 ","$17,982 ",90.0 kW (120 bhp),1,"$51,506 ",Avaialble
+68,Mitsubishi Lancer 1.3M GLXI (COE till 03/2030),"$44,805 ","$4,890 /yr",,N.A.,$849 /yr,,"1,298 cc",N.A.,1992,Manual,"$12,716 ","$19,074 ",,More than 6,"$33,207 ",Avaialble
+69,Skoda Octavia 1.4A TSI Ambition Plus,"$89,000 ",,,"16,000 km (11.2k /yr)",$624 /yr,,"1,395 cc","1,289 kg",2018,Auto,"$20,151 ","$20,212 ",110.0 kW (147 bhp),1,"$39,400 ",Avaialble
+70,Kia Cerato Forte 1.6A SX (COE till 05/2024),"$24,800 ","$7,470 /yr",,"112,000 km (9.6k /yr)",$886 /yr,,"1,591 cc","1,251 kg",2009,Auto,"$13,989 ","$13,989 ",92.7 kW (124 bhp),2,"$13,943 ",Avaialble
+71,Mitsubishi Lancer EX 1.6A,"$44,800 ",,,"36,223 km (6.3k /yr)",$738 /yr,,"1,590 cc","1,289 kg",2015,Auto,"$11,568 ","$11,568 ",86.0 kW (115 bhp),1,"$67,749 ",Avaialble
+72,Honda Civic 1.6A VTi,"$94,888 ",,,"13,800 km",$742 /yr,,"1,597 cc","1,237 kg",2019,Auto,"$19,833 ","$19,833 ",92.0 kW (123 bhp),1,"$32,999 ",Avaialble
+73,Toyota Corolla Altis 1.6A (COE till 01/2031),"$59,888 ","$5,990 /yr",,"78,478 km (8k /yr)",$742 /yr,,"1,598 cc","1,195 kg",2011,Auto,"$15,510 ","$15,510 ",90.0 kW (120 bhp),1,"$38,137 ",Avaialble
+74,Hyundai Elantra 1.6A (New 5-yr COE),"$36,800 ","$7,360 /yr",,N.A.,$738 /yr,N.A.,"1,591 cc","1,267 kg",2011,Auto,"$10,885 ","$10,885 ",95.6 kW (128 bhp),2,N.A.,Sold
+75,Honda City 1.5A SV,"$77,588 ",,,"29,000 km (14.3k /yr)",$684 /yr,,"1,497 cc","1,096 kg",2018,Auto,"$17,833 ","$17,833 ",88.0 kW (118 bhp),1,"$25,556 ",Avaialble
+76,Kia Cerato 1.6A EX,"$76,888 ",,,"28,000 km (19k /yr)",$738 /yr,,"1,591 cc","1,287 kg",2019,Auto,"$14,547 ","$14,547 ",93.8 kW (125 bhp),1,"$36,704 ",Avaialble
+77,Honda Civic 2.0M Si (COE till 05/2028),"$68,000 ","$9,340 /yr",,N.A.,"$1,573 /yr",,"1,998 cc","1,282 kg",2008,Manual,"$22,145 ","$22,145 ",114.0 kW (152 bhp),5,"$38,712 ",Avaialble
+78,Kia Cerato K3 1.6A,"$58,800 ",,,"59,475 km (16.9k /yr)",$738 /yr,,"1,591 cc","1,295 kg",2017,Auto,"$11,832 ","$11,832 ",95.3 kW (127 bhp),1,"$42,801 ",Avaialble
+79,Kia Cerato Forte 1.6A EX (New 5-yr COE),"$33,800 ","$6,760 /yr",,"106,800 km (10.6k /yr)",$738 /yr,N.A.,"1,591 cc","1,261 kg",2010,Auto,"$10,932 ","$10,932 ",91.2 kW (122 bhp),2,N.A.,Sold
+80,Honda Civic 1.5A VTEC Turbo Sunroof,"$109,888 ",,,"10,494 km (8.7k /yr)",$684 /yr,,"1,498 cc","1,310 kg",2019,Auto,"$26,472 ","$29,061 ",127.0 kW (170 bhp),1,"$40,009 ",Avaialble
+81,Kia Cerato K3 1.6A (OPC),"$55,000 ",,,"11,000 km (3.5k /yr)",$238 /yr,,"1,591 cc","1,295 kg",2017,Auto,"$11,854 ","$11,854 ",95.3 kW (127 bhp),1,"$29,791 ",Avaialble
+82,Toyota Vios 1.5A E (COE till 01/2026),"$31,800 ","$6,420 /yr",,N.A.,$684 /yr,,"1,497 cc","1,095 kg",2010,Auto,"$12,116 ","$12,116 ",80.0 kW (107 bhp),1,"$19,069 ",Avaialble
