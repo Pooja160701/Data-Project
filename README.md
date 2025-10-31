@@ -169,10 +169,6 @@ Question1/
 
 ---
 
-Here’s a clean, professional **README.md** summary for your project 👇
-
----
-
 # Car Data Analysis & Processing Pipeline
 
 ## Overview
