@@ -161,7 +161,7 @@ Question1/
 
 ---
 
-### 📌 Notes
+### Notes
 
 * The comparison key is **`Car Name`**, assumed to uniquely identify listings.
 * The script automatically skips incomplete rows or invalid entries.
@@ -175,7 +175,7 @@ Here’s a clean, professional **README.md** summary for your project 👇
 
 # Car Data Analysis & Processing Pipeline
 
-## 📘 Overview
+## Overview
 
 This project performs **data cleaning, feature extraction, analysis, and clustering** on a car resale dataset.
 It converts raw scraped data into a structured, analyzable format and generates insights about price, mileage, and COE expiry trends.
