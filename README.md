@@ -247,4 +247,11 @@ It converts raw scraped data into a structured, analyzable format and generates 
 pip install pandas numpy seaborn matplotlib scikit-learn
 ```
 
+![Output](Question3/image.png)
+
+![Output](Question3/image-1.png)
+
+![Output](Question3/image-2.png)
+
+![Output](Question3/image-3.png)
 ---
